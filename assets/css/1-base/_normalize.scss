@@ -9,6 +9,7 @@
  */
 
 html {
+  font-size: 62.5%;
   line-height: 1.15; /* 1 */
   -webkit-text-size-adjust: 100%; /* 2 */
 }
@@ -22,6 +23,7 @@ html {
 
 body {
   margin: 0;
+  font-size: 1.6rem;
 }
 
 /**
@@ -147,6 +149,7 @@ sup {
 
 img {
   border-style: none;
+  width: 100%;
 }
 
 /* Forms
