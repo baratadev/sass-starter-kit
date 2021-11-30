@@ -1,3 +1,8 @@
 .body {
-  background-color: $primary;
+  background-color: antiquewhite;
+
+  // 800px
+  @include break(50rem) {
+    background-color: white;
+  }
 }
